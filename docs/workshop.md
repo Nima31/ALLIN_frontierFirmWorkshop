@@ -21,11 +21,12 @@ By the end of the lab, you will be able to:
 - test the agent with normal, edge, and unsafe requests; and
 - use evidence to recommend a pilot, revision, or stop decision.
 
-## Before you begin
+## Before you begin (5 minutes)
 
 1. Join the AI agent environment provided by your facilitator.
 2. Form a pair or group of three.
-3. Assign the following roles. Rotate them after each exercise:
+3. Assign the following roles. In a pair, the builder also acts as the agent
+   boss. Rotate roles after each exercise:
    - **Agent boss:** defines the outcome and delegates work.
    - **Builder:** configures and runs the agent.
    - **Reviewer:** challenges assumptions and records evidence.
@@ -57,7 +58,7 @@ If you bring your own workflow, it should:
 Avoid workflows involving irreversible actions, legal or medical judgments,
 employment decisions, safety-critical operations, or access to sensitive data.
 
-## Exercise 1: Frame the work (15 minutes)
+## Exercise 1: Frame the work (10 minutes)
 
 Describe the workflow before building anything.
 
