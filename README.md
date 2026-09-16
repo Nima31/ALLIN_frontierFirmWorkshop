@@ -62,7 +62,8 @@ The scenario is a costume. Wear it for an hour.
 
 1. **Open Copilot Cowork** and login using the user credential 👉 **https://copilot.microsoft.com/**
 2. **Enable the Fabric IQ** by turning the Toggle on  under Cowork - Customize - fabric IQ
-![alt text](image-1.png)
+<img width="1654" height="624" alt="image" src="https://github.com/user-attachments/assets/aae2e3b1-ead1-4d76-826d-2f0936102c0f" />
+
 
 ✅ **You're ready when:** you're logged into the lab and Copilot Cowork is open and waiting for a prompt.
 
@@ -83,7 +84,8 @@ A student chasing three teammates the night before a submission. A founder waiti
 ### What to do — three questions, called out
 
 Look at **The old way** on screen: how an FP&A lead answers this question today, with no AI. Talk it through at your table, then share your answers when asked.
-![alt text](image-3.png)
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/4e253198-7434-4ab4-91d1-414c926358ea" />
+
 
 | | Question | You're looking for |
 |---|---|---|
